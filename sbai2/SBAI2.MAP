@@ -1,0 +1,19 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 00237H 00238H CODE               
+ 00238H 00245H 0000EH DATA               
+ 00246H 00385H 00140H SOUND              
+ 00390H 10390H 10000H DATA1              
+ 10390H 20390H 10000H DATA2              
+ 20390H 30390H 10000H DATA3              
+ 30390H 40390H 10000H DATA4              
+ 40390H 50390H 10000H DATA5              
+ 50390H 60390H 10000H DATA6              
+ 60390H 70390H 10000H DATA7              
+ 70390H 80390H 10000H DATA8              
+ 80390H 8E671H 0E2E2H DATA9              
+ 8E672H 8E771H 00100H STACK              
+
+Program entry point at 0000:0000
+
